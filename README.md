@@ -10,7 +10,7 @@
 
 ## AWS infrastructure
 
-![architecture](images/Mydrawio.png)
+![architecture](images/test.png)
 
 ## Pre requisites
 
